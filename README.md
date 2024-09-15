@@ -1,4 +1,4 @@
-#Rock or Mine Prediction using Logistic Regression
+Rock or Mine Prediction using Logistic Regression
 
 Project Overview
 
